@@ -1,5 +1,5 @@
 import { DownloadSimple,LinkedinLogo,InstagramLogo,GithubLogo, WhatsappLogo } from "phosphor-react";
-import Perfil from "../../public/Perfil.jpg"
+import Perfil from "../../public/images/Perfil.jpg"
 
 export function SobreBanner(){
     return(
